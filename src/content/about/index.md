@@ -2,18 +2,16 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript
-  - TypeScript
+  - Ruby
+  - Rails
+  - Javascript
   - HTML & CSS
   - React
-  - Gatsby
-  - Vue
-  - Ember
-  - Jekyll
+  - Redux
+  - Bash/CLI
+  - Node.js
 ---
 
-I'm a front end software engineer who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces while being clean and efficient behind the scenes.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/) in the spring of 2018, I joined [Upstatement](https://www.upstatement.com/) on the engineering team and have continued honing my skills. I enjoy constantly learning and improving my skills with the many technologies that power the web!
+I'm a racecar tinkerer turned full-stack software engineer who enjoys beautifully complex systems that scale from small, simple components.
 
 Here's a few things I'm experienced with:
