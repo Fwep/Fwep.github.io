@@ -20,13 +20,13 @@ Special thanks to Brittany Chiang (https://brittanychiang.com/) for providing th
 3.  **Install dependencies**
 
     ```sh
-    yarn install
+    npm install
     ```
 
 4.  **Start the development server**
 
     ```sh
-    yarn start
+    npm run start
     ```
 
 ## Building and Running for Production
@@ -34,11 +34,11 @@ Special thanks to Brittany Chiang (https://brittanychiang.com/) for providing th
 In addition to the development server started with `yarn start`, you can also generate a full static production build and serve that to preview the site as it will appear once deployed:
 
 ```sh
-yarn build
+npm build
 ```
 
 ```sh
-yarn serve
+npm server
 ```
 
 ## 🧐 What's inside?
