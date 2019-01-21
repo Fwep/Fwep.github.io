@@ -1,37 +1,32 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Front-End Software Engineer',
-  siteDescription:
-    'Front end software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+  siteTitle: 'Taran Cacacho | Full-Stack Software Engineer',
+  siteDescription: 'Full-stack software engineer based in San Francisco, CA',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Taran Noah Cacacho, Taran, Noah, Cacacho, Fwep, software engineer, front-end engineer, web developer, javascript, UCLA',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  name: 'Taran Cacacho',
+  location: 'San Francisco, CA',
+  email: 'tarancacacho@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/Fwep/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
+      url: 'https://www.linkedin.com/in/tarancacacho/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
+      url: 'https://www.instagram.com/_fwep_/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/fwep_',
     },
   ],
 
@@ -54,7 +49,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@fwep_',
   googleAnalyticsID: 'UA-45666519-2',
 
   headerHeight: 100,
