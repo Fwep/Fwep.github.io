@@ -1,12 +1,7 @@
-# V4
+# Fwep.io
 
-The fourth iteration of my personal site built with [Gatsby](https://www.gatsbyjs.org/) and hosted with [Netlify](https://www.netlify.com/).
-
-> 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
->
-> Please be a decent person and give me proper credit by linking back to my website! Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure.
-
-👀 [Looking for v3?](https://bchiang7.github.io/)
+## Acknowledgments
+Special thanks to Brittany Chiang (https://brittanychiang.com/) for providing the inspiration and skeleton for this portfolio site of mine.
 
 ## 🚀 Quick Start
 
