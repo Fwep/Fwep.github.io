@@ -1,15 +1,17 @@
 ---
-date: '2018-04-01'
-title: 'blistabloc'
-cover: './blistabloc.png'
-github: ''
-external: 'https://blistabloc.com/'
+date: '2018-12-20'
+title: 'Attack'
+cover: './attack.png'
+github: 'https://github.com/Fwep/Attack'
+external: 'https://attackslack.herokuapp.com/'
 tech:
-  - Wordpress
-  - Timber
-  - SCSS
-  - JS
-  - PHP
+  - Ruby
+  - Rails
+  - PostgreSQL
+  - HTML5
+  - SASS
+  - CSS3
+  - Action Cable
 ---
 
-Custom wordpress theme built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Workplace communication application taking inspiration from the Slack website. Utilizes realtime communication via the WebSockets protocol in the ActionCable library.
