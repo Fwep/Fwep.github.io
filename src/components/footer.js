@@ -69,14 +69,14 @@ const Footer = () => (
           ))}
       </SocialItemList>
     </SocialContainer>
-    <Copy>
+    {/* <Copy>
       <GithubLink
         href="https://github.com/bchiang7/v4"
         target="_blank"
         rel="nofollow noopener noreferrer">
         Designed &amp; Built by Brittany Chiang
       </GithubLink>
-    </Copy>
+    </Copy> */}
   </FooterContainer>
 );
 
