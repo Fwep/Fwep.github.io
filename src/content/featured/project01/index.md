@@ -1,15 +1,17 @@
 ---
-date: '2019-01-16'
-title: 'Space.js'
-cover: './spacejs.png'
-github: 'https://github.com/Fwep/Space.js'
-external: 'https://fwep.github.io/Space.js/'
+date: '2019-01-09'
+title: 'TravelX'
+cover: './travelx.png'
+github: 'https://github.com/Fwep/TravelX'
+external: 'https://travelx-aa.herokuapp.com/'
 tech:
-  - HTML
-  - CSS
-  - JavaScript
-  - Webpack
-  - three.js
+  - MongoDB
+  - Express.js
+  - React
+  - Node.js
+  - Axios
+  - Material UI
+  - Google Places
 ---
 
-A frontend application built to visualize the planets of our solar system. Pluto not included.
+An end-to-end travel application that simplifies the user experience of planning the trip of a lifetime.
