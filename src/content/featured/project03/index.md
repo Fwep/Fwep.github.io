@@ -14,4 +14,4 @@ tech:
   - Action Cable
 ---
 
-Workplace communication application taking inspiration from the Slack website. Utilizes realtime communication via the WebSockets protocol in the ActionCable library.
+Workplace communication application taking inspiration from the Slack website. Allows for full-duplex communication via the WebSockets protocol and the ActionCable module.
