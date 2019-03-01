@@ -7,5 +7,5 @@ range: 'May 2018 - Present'
 url: 'https://www.igpp.ucla.edu/'
 ---
 
-- Designed mount for magnetometer for use in satellite mission to Europa
-- Designed and assembled iterations of electronics packaging for use in ICEMAG payload to Europa
+- Modeled and 3D-printed magnetometer mount for use in NASA mission to Europa 
+- Designed circuit board packaging assemblies for use in ICEMAG payload to Europa, direct report to chief engineer.
