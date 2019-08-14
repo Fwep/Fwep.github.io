@@ -1,8 +1,5 @@
 # Fwep.io
 
-## Acknowledgments
-Special thanks to Brittany Chiang (https://brittanychiang.com/) for providing the inspiration and skeleton for this portfolio site of mine.
-
 ## 🚀 Quick Start
 
 1.  **Install the Gatsby CLI**
@@ -85,3 +82,7 @@ A quick look at the top-level files and directories in this project.
 12. **`README.md`**: A text file containing useful reference information about your project.
 
 13. **`yarn.lock`**: [Yarn](https://yarnpkg.com/) is a package manager alternative to npm. You can use either yarn or npm, though all of the Gatsby docs reference npm. This file serves essentially the same purpose as `package-lock.json`, just for a different package management system.
+
+
+## Acknowledgments
+Special thanks to Brittany Chiang for providing the inspiration and skeleton for this portfolio site of mine.
