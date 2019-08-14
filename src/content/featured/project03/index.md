@@ -3,7 +3,7 @@ date: '2018-12-20'
 title: 'Attack'
 cover: './attack.png'
 github: 'https://github.com/Fwep/Attack'
-external: 'https://attackslack.herokuapp.com/'
+external: 'attack-slack.io'
 tech:
   - Ruby
   - Rails
